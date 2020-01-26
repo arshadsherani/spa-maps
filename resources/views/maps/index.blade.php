@@ -253,7 +253,7 @@
   <script type="text/javascript" src="{{ asset('public/js/custom.js') }}"></script>
 		
 		<script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAd0wn0LFKCgZ-vk_1OdAEp4TtRjPdeUic&callback=initMap">  
+    src="https://maps.googleapis.com/maps/api/js?key=your_google_key&callback=initMap">  
     </script>
 <script>
 //   Auco Search 
